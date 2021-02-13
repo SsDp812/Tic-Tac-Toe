@@ -12,7 +12,18 @@ body{
 
     
 }
-.GameArea{
+.winsWindow{
+    width: 100%;
+    height: 100%;
+    background-color: bisque;
+    color: cadetblue;
+    font-size: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    text-align: center;
+
+}
+.gameArea{
    margin-top: 10px;
     width: 612px;
     margin-left: 10px;
