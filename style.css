@@ -1,0 +1,45 @@
+
+body{
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+}
+
+.bodyArea{
+    width: 100%;
+    height: 100%;
+    
+    display: table;
+
+    
+}
+.GameArea{
+   margin-top: 10px;
+    width: 612px;
+    margin-left: 10px;
+    height: 612px;
+    color: wheat;
+    font-size: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    display: block;
+    background-color: darkcyan;
+
+}
+
+.box{
+    
+    display: table-cell;
+    border-width: 2px 2px 2px 2px;
+    border-style: dashed;
+    border-color: black;
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    vertical-align: middle
+    
+    
+}
